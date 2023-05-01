@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I'm a rising Junior at the University Of South Florida, majoring in Computer Science.
+I'm a rising Senior at the University Of South Florida, majoring in Computer Science.
 
 * 🌍  Based in Tampa, FL
 * 🖥️  See my portfolio [here](https://arwin-dev.netlify.app/)
