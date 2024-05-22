@@ -8,7 +8,5 @@ I'm a rising Senior at the University Of South Florida, majoring in Computer Sci
 ![](https://github-readme-streak-stats.herokuapp.com/?user=arwin-swapna&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arwin-swapna&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=arwin-dev&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
