@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Arwin</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Alumni-University%20of%20South%20Florida-green?style=flat-square" alt="USF Alumni Badge" />
-  <img src="https://img.shields.io/badge/Currently%20working%20at-Tenex%20Software%20Solutions-blue?style=flat-square" alt="Tenex Software Badge" />
+  <img src="https://img.shields.io/badge/Alumni-University%20of%20South%20Florida-darkgreen?style=flat-square" alt="USF Alumni Badge" />
+  <img src="https://img.shields.io/badge/Currently%20working%20at-White%20&%20Case-blue?style=flat-square" alt="Tenex Software Badge" />
 </p>
 
 <h3 align="left">About Me:</h3>
 <ul>
   <li>🎓 Graduated from the University of South Florida with a degree in Computer Science.</li>
-  <li>💼 Currently working at Tenex Software Solutions, building scalable and efficient software applications.</li>
+  <li>💼 Currently working at White & Case, building scalable and efficient software applications.</li>
   <li>📈 Always learning new technologies and keeping up with industry trends.</li>
 </ul>
 
