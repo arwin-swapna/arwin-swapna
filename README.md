@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Alumni-University%20of%20South%20Florida-darkgreen?style=flat-square" alt="USF Alumni Badge" />
-  <img src="https://img.shields.io/badge/Currently%20working%20at-White%20&%20Case-blue?style=flat-square" alt="Tenex Software Badge" />
+  <img src="https://img.shields.io/badge/Currently%20working%20at-White%20&%20Case%20LLP-blue?style=flat-square" alt="Tenex Software Badge" />
 </p>
 
 <h3 align="left">About Me:</h3>
