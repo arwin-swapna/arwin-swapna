@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>👋 Hey, I'm Arwin Swapna</h1>
+<h1>👋 Hey, I'm Arwin</h1>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2C8EBB&center=true&vCenter=true&width=560&lines=DMS+%26+Risk+Engineer+%40+White+%26+Case;USF+Computer+Science+Alum;Full-Stack+%7C+.NET+%7C+React+%7C+Azure;Always+learning%2C+always+shipping." alt="Typing SVG" />
 
